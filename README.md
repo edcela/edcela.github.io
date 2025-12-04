@@ -3,30 +3,17 @@
 
 # Edcel Website 
 
-Hi! I'm Edcel and I wanted to create a simple portfolio using Github.io, and before learning about Github pages :skull:🥀. 
+Hi! I'm Edcel and I wanted to create a simple portfolio using Github.io, and before learning about Github pages 💀🥀. 
 
 
 ## Information
 - About Me
-  - uh
+  - vro
 - Skills, Education, Experience
-  - University of Manitoba, 4th Year Computer Engineering
-  - Programming, Webpages
-  - CAD, 3D Modelling, Printing
-  - PCB, Electronics, Microcontrollers
-  - Jobs
-- Notable Projects
-  - Arduino GameBoi
-  - CassettifyMixtape.xyz
-  - This Website!
-  - Macropad
-  - LED Desk Lights + Local Node.js Server (WIP)
-- All Projects?
+  - Electrical Engineering
+  - Robotics YIPPIE
+- Projects
 - Hobbies
-  - 3D Printing
-  - 3D Modelling
-  - CAD Design
-  - PCB Design Electronics
 - Contact
   - LinkedIn
   - GitHub
