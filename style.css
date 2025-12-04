@@ -105,8 +105,8 @@ body {
 
 /* Contact Icon  */
 .icon-link img {
-    width: 32px;
-    height: 32px;
+    width: 64px;
+    height: 64px;
     transition: transform 0.2s ease, filter 0.2s ease;
 }
 
